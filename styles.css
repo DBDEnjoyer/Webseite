@@ -75,7 +75,7 @@ nav ul li a:hover {
 }
 
 .project {
-    background: #edf5ff;
+    background: #ffffff;
     padding: 15px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
@@ -97,7 +97,7 @@ nav ul li a:hover {
 }
 
 footer {
-    background: #edf5ff;
+    background: #080f5e;
     color: white;
     text-align: center;
     padding: 15px;
@@ -123,6 +123,7 @@ footer {
         gap: 10px;
     }
 }
+
 
 
 
