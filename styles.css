@@ -2,7 +2,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #edf5ff;
+    background-color: #ffffff;
     display: flex;
     justify-content: center;
 }
@@ -10,7 +10,7 @@ body {
 .container {
     width: 90%;
     max-width: 900px;
-    background: #ffffff;
+    background: #edf5ff;
     padding: 20px;
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
     min-height: 100vh;
@@ -123,4 +123,5 @@ footer {
         gap: 10px;
     }
 }
+
 
